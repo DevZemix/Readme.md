@@ -19,7 +19,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://osu.ppy.sh/users/18601796" width="22px" src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" />][osu]
-[<img align="left" alt="sadgesenpai.ml" width="22px" src="https://sadgesenpai.ml/images/nino1.jpg" />][website]
+[<img align="left" alt="sadgesenpai.ml" width="22px" src="https://github.com/SleepLessRage" />][website]
 [<img align="left" alt="SadSenpai | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="SkyAnime | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
 
