@@ -48,26 +48,21 @@
         
     
 
-➡️ [more videos...](https://youtube.com/wilardzysenpai)
+➡️ [more videos...](https://youtube.com/IDontSleepRage)
 
 ---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
-  <!--START_SECTION:activity-->
-1. 🚀 Published release [2023.07.25.2](https://github.com/WilardzySenpai/Project-Luf/releases/tag/2023.07.25.2) in [WilardzySenpai/Project-Luf](https://github.com/WilardzySenpai/Project-Luf)
-  <!--END_SECTION:activity-->
   
 
 </details>
 
 </details>
 
-[website]: https://sadgesenpai.tk
-[youtube]: https://youtube.com/wilardzysenpai
-[discord]: https://discord.gg/JehBMxdef5
+[website]: https://sleeplessrage.to
+[youtube]: https://youtube.com/@IDontSleepRage
+[discord]: https://discord.gg/yQpS4CP79z
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[osu]: https:/
