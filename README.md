@@ -1,12 +1,12 @@
 <h1 align="center">
-  <a href="#"><img src="https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d" alt="NinoMusic"></a>
+  <a href="#"><img src="[https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d](https://i.pinimg.com/originals/86/eb/b7/86ebb75455897351eae87ff21b72ef9c.jpg)" alt="Cid"></a>
 </h1>
 
-### Hi there, I'm Wilard - aka [SadSenpai][website] 👋 
+### Hi there, I'm Rage - aka [SleepLess Rage][website] 👋 
 
 [![Website](https://img.shields.io/website?label=sadgesenpai.ml&style=for-the-badge&url=https%3A%2F%2Fsadgesenpai.ml)](https://sadgesenpai.ml)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)
-[![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/JehBMxdef5)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/@IDontSleepRage?)
+[![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/yQpS4CP79z)
 
 ## I'm a Game Developer, Web Developer, Minecraft Server Developer & a Lifeless Being :D
 
