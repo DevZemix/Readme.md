@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="[https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d](https://i.pinimg.com/originals/86/eb/b7/86ebb75455897351eae87ff21b72ef9c.jpg)" alt="Cid"></a>
+  <a href="#"><img src="[https://64.media.tumblr.com/6c3243b89667c50927027b2701f1c2f2/58081aaf52865ab7-6a/s1280x1920/6676c0e661bca557dd322c4baed0335ff265348b.pnj](https://i.pinimg.com/originals/86/eb/b7/86ebb75455897351eae87ff21b72ef9c.jpg)" alt="Cid"></a>
 </h1>
 
 ### Hi there, I'm Rage - aka [SleepLess Rage][website] 👋 
