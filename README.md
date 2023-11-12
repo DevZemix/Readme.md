@@ -4,6 +4,7 @@
 
 ### Hi there, I'm Rage - aka [SleepLess Rage][website] 👋 
 
+
 ## I'm a Game Developer, Web Developer, Minecraft Server Developer & a Lifeless Being :D
 
 - ⏰ Trying my best to live
@@ -15,15 +16,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilardzysenpai&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilardzysenpai&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-
-### Connect with me:
-
-[<img align="left" alt="https://osu.ppy.sh/users/18601796" width="22px" src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" />][osu]
-[<img align="left" alt="sadgesenpai.ml" width="22px" src="https://github.com/SleepLessRage" />][website]
-[<img align="left" alt="SadSenpai | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="SkyAnime | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
-
-<br />
 
 ### Languages and Tools:
 
