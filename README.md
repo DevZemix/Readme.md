@@ -4,7 +4,8 @@
 
 ### Hi there, I'm Rage - aka [SleepLess Rage][website] 👋 
 
-[![Website](https://img.shields.io/website?label=sadgesenpai.ml&style=for-the-badge&url=https%3A%2F%2Fsadgesenpai.ml)](https://sadgesenpai.ml)
+[![Website](https://img.shields.io/badge/website?style=for-the-badge&logo=bitcoin&logoColor=%23000000&label=sleeplessrage.to&labelColor=%23ffffff&color=%230066ff
+)]()
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/@IDontSleepRage?)
 [![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/yQpS4CP79z)
 
